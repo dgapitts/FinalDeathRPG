@@ -2,4 +2,4 @@
 
 First Twine project, learning/playing with this new software... wondering where this will go.
 
-[Play Final Death RPG](FinalDeathRPG.html)
+[Play Final Death RPG](https://dgapitts.github.io/FinalDeathRPG/)
