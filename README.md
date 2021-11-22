@@ -6,5 +6,5 @@ First Twine project, learning/playing with this new software... wondering where 
 
 
 Credits:
-https://opengameart.org/content/dance-of-rebirth 
-https://opengameart.org/content/andreass-darkness
+* https://opengameart.org/content/dance-of-rebirth 
+* https://opengameart.org/content/andreass-darkness
